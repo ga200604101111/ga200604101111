@@ -14,4 +14,4 @@
     alt="GitHub Stats"
   />
 </p>
-http://localhost:4198/
+<a href="http://localhost:4198/">
