@@ -14,5 +14,3 @@
     alt="GitHub Stats"
   />
 </p>
-
-[我的伺服器](http://localhost:4198)
